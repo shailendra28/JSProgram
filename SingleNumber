@@ -1,0 +1,18 @@
+/**
+ * This will generate single digit random number.
+ */
+let singleDigit = Math.floor(Math.random() * 10);
+console.log("The digit is " + singleDigit);
+
+================O/P============================
+C:\Users\admin>node singleNumber.js
+The digit is 2
+
+C:\Users\admin>node singleNumber.js
+The digit is 6
+
+C:\Users\admin>node singleNumber.js
+The digit is 1
+
+C:\Users\admin>node singleNumber.js
+The digit is 6
