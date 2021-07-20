@@ -1,0 +1,8 @@
+C:\Users\admin>node
+Welcome to Node.js v13.14.0.
+Type ".help" for more information.
+
+> console.log("Hello")
+Hello
+undefined
+>
